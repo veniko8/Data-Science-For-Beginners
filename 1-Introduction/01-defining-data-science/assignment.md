@@ -22,7 +22,7 @@ Fill in the following table (substitute suggested problem domains for your own o
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
 | Education | | | | |
 | Vaccination | | | | |
-| Productivity | | | | |
+| Productivity |Opening facebook too often in working hours |log of opening facebook.com (when during the day, coming from which program, how long time spent there) |In a sample database, in structured format |Insights: When during the day I 'm most often deconcentrized, how much time I spend on facebook. Decisions: Set a reminder for the most frequent part of the day when I'm  opening facebook to do something more productive instead. (for example: reading industry news) |
 
 ## Rubric
 
