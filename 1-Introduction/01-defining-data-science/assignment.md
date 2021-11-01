@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity |Opening facebook too often in working hours |log of opening facebook.com (when during the day, coming from which program, how long time spent there) |In a sample database, in structured format |Insights: When during the day I 'm most often deconcentrized, how much time I spend on facebook. Decisions: Set a reminder for the most frequent part of the day when I'm  opening facebook to do something more productive instead. (for example: reading industry news) |
+| Education | Bad results in regional contests.| Results from all grades throughout time |Relational, structured database |Insights: When the school started to perform bad compared to other schools, which grade has the worst results. Decisions: What processes other schools started to apply in the year where we satrted to lag behind. Which grade is the weakest link, why.
+| Vaccination | Several people don't turn up to their vaccination appointment |Real-time data of vaccine doses unused compared to original plan |in structured database | Insights: Details about people who don't come: Usual age, gender, etc..Decision: Target specifically these groups to educate them about the importance of taking the vaccine if they are regsitered. Send SMS to people living nearby to take the leftover vaccines|
+| Productivity |Opening facebook too often in working hours |log of opening facebook.com (when during the day, coming from which program, how long time spent there) |In a simple database, in structured format |Insights: When during the day I 'm most often deconcentrized, how much time I spend on facebook. Decisions: Set a reminder for the most frequent part of the day when I'm  opening facebook to do something more productive instead. (for example: reading industry news) |
 
 ## Rubric
 
